@@ -8,3 +8,5 @@ Steps to create the project:
 6.If the user guesses the number correctly within the 10 attempts, declare them the winner and ask if they want to play again.
 7.If the user doesn't guess the number correctly within the 10 attempts, declare the game over and ask if they want to play again.
 8.Test the game by running the Python file in your terminal or console.
+
+ THIS PROJECT IS DONE BY HARITHA.S
